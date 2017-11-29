@@ -19,6 +19,7 @@ chown abc:abc \
 	/downloads \
 	/downloads/complete \
 	/downloads/incomplete \
+	/storage \
 	/watch
 
 chmod 755 /config/blocklist-update.sh
